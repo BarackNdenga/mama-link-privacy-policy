@@ -1,9 +1,10 @@
-# Politique de confidentialité — Mama Link
+# Pages juridiques — Mama Link
 
-Page web publique destinée à la fiche Google Play et à l'écran Confidentialité de l'application Mama Link.
+Pages web publiques destinées à la fiche Google Play et à l'écran Confidentialité de l'application Mama Link.
 
 - Responsable : Barack Ndenga
 - Contact : ndengabarack@gmail.com · +243 837 767 430
-- Page : https://barackndenga.github.io/mama-link-privacy-policy/
+- Politique de confidentialité : https://barackndenga.github.io/mama-link-privacy-policy/
+- Conditions d'utilisation : https://barackndenga.github.io/mama-link-privacy-policy/terms.html
 
-La page est un document HTML statique, responsive et accessible. Elle ne charge ni script d'analyse, ni police, ni ressource distante tierce. Les liens vers les documents officiels des fournisseurs sont explicites.
+Les pages sont des documents HTML statiques, responsive et accessibles. Elles ne chargent ni script d'analyse, ni police, ni ressource distante tierce.
